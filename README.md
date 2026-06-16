@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a ECE student
+Enthusiastic and motivated electronics and communication engineering student with skills in c
+programming , SQL and system verilog. Eager to learn and work on real world projects in DBMS,
+digital  VLSI designs and interest in computer communications networks , verification of digital
+designs. 
 
 
 # 💻 Tech Stack:
